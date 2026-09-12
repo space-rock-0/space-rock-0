@@ -1,4 +1,4 @@
-name: Contribution Snake
+name:  Snake
 
 on:
   workflow_dispatch:
