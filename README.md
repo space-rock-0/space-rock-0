@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <picture>
@@ -34,9 +35,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/space-rock-0/space-rock-0/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/space-rock-0/space-rock-0/output/snake-light.svg">
-  <img src="https://raw.githubusercontent.com/space-rock-0/space-rock-0/output/snake-dark.svg" alt="contribution snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/space-rock-0/space-rock-0/output/snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/space-rock-0/space-rock-0/output/snake-light.svg?v=2">
+  <img src="https://raw.githubusercontent.com/space-rock-0/space-rock-0/output/snake-dark.svg?v=2" alt="contribution snake">
 </picture>
 
 </div>
