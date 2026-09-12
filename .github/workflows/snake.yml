@@ -11,21 +11,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate dark mode snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: space-rock-0
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_snake=A78BFA&color_dots=0E4429,006D32,26A641,39D353
-
-      - name: Generate light mode snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: space-rock-0
-          outputs: |
             dist/snake-light.svg?palette=github-light&color_snake=10B981&color_dots=9BE9A8,40C463,30A14E,216E39
 
-      - name: Publish snake
+      - name: Publish snake SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           build_dir: dist
