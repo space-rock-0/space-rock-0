@@ -1,37 +1,34 @@
-name: Generate Contribution Snake
+name: Contribution Snake
 
-'on':
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
+on:
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
+      - name: Generate dark mode snake
+        uses: Platane/snk@v3
         with:
           github_user_name: space-rock-0
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_dots=2d3343,0e4429,006d32,26a641,39d353&color_snake=10B981
-            dist/snake-light.svg?palette=github-light&color_dots=eff2f5,9be9a8,40c463,30a14e,216e39&color_snake=A78BFA
+            dist/snake-dark.svg?palette=github-dark&color_snake=A78BFA&color_dots=0E4429,006D32,26A641,39D353
 
-      - name: Publish snake SVGs
+      - name: Generate light mode snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: space-rock-0
+          outputs: |
+            dist/snake-light.svg?palette=github-light&color_snake=10B981&color_dots=9BE9A8,40C463,30A14E,216E39
+
+      - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
