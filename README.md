@@ -1,49 +1,68 @@
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=space-rock-0&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133643764%3Fu%3D01f8b684b02162ff2b0516bfdf96da669392700b%26v%3D4" alt="space-rock-0 hero visual" />
+</p>
 
-<div align="center">
+<p align="center"><b>Siddhartha Sagi</b> · Frontend or full-stack engineer<br/><sub>Software Developer | Python | Power Platform | ML Enthusiast</sub></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="dark.svg" alt="Siddhartha Sagi profile banner">
-</picture>
+<p align="center"><a href="https://github.com/space-rock-0">GitHub</a></p>
 
-</div>
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-<br>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=space-rock-0&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133643764%3Fu%3D01f8b684b02162ff2b0516bfdf96da669392700b%26v%3D4" alt="space-rock-0 projects visual" />
+</p>
 
-<div align="center">
+- [ciai--case-study-round-](https://github.com/space-rock-0/ciai--case-study-round-) · ★ 1 — final  answer 
+- [llm-regression-gate](https://github.com/space-rock-0/llm-regression-gate) · ★ 1 — A Model Regression Detection System --Automated regression testing and drift detection for LLM promp
+- [BookSage-AI](https://github.com/space-rock-0/BookSage-AI) · ★ 0 — Hybrid book recommendation system fusing a scikit-learn k-nearest-neighbors collaborative filtering 
+- [Cold-Chain-Logistics-Ai](https://github.com/space-rock-0/Cold-Chain-Logistics-Ai) · ★ 0
+- [ClockIn](https://github.com/space-rock-0/ClockIn) · ★ 0 — ClockIn is a full-stack productivity platform that transforms assignments and user input into struct
+- [Agentic-AutoRAGline](https://github.com/space-rock-0/Agentic-AutoRAGline) · ★ 0 — AutoRAG uses greedy node-wise selection; AutoRAG-HP uses a bandit approach; syftr applies multi-obje
 
-![Streak](https://streak-stats.demolab.com/?user=space-rock-0&theme=transparent&hide_border=true&stroke=A78BFA&ring=7C3AED&fire=10B981&currStreakLabel=A78BFA&background=0A101F&width=100%25)
+</details>
 
-</div>
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
-<table align="center">
-<tr>
-<td width="49%">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=space-rock-0&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133643764%3Fu%3D01f8b684b02162ff2b0516bfdf96da669392700b%26v%3D4" alt="space-rock-0 stack visual" />
+</p>
 
-![Stats](https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=space-rock-0&show_icons=true&hide_rank=true&theme=transparent&title_color=A78BFA&icon_color=10B981&text_color=E5E7EB&bg_color=0A101F)
+</details>
 
-</td>
-<td width="49%">
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
-![Top Langs](https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=space-rock-0&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=E5E7EB&bg_color=0A101F)
+<b>25</b> public repositories, <b>2</b> stars, <b>221</b> contributions in the last year, a longest streak of <b>8</b> days and <b>2</b> followers.
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=space-rock-0&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133643764%3Fu%3D01f8b684b02162ff2b0516bfdf96da669392700b%26v%3D4" alt="space-rock-0 stats visual" />
+</p>
 
-<div align="center">
+</details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/space-rock-0/space-rock-0/output/snake-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/space-rock-0/space-rock-0/output/snake-light.svg?v=2">
-  <img src="https://raw.githubusercontent.com/space-rock-0/space-rock-0/output/snake-dark.svg?v=2" alt="contribution snake">
-</picture>
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
 
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=space-rock-0&theme=neon" alt="space-rock-0 contribution activity" />
+</p>
 
-<div align="center">
+</details>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhartha-sagi)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981)](mailto:sagi15sid05@gmail.com)&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA)](https://instagram.com/YOUR_HANDLE)&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE)](https://facebook.com/YOUR_HANDLE)
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
 
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=space-rock-0&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133643764%3Fu%3D01f8b684b02162ff2b0516bfdf96da669392700b%26v%3D4" alt="space-rock-0 social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Siddhartha Sagi · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
