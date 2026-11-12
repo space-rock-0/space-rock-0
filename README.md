@@ -36,7 +36,7 @@
 <h2>🟩 Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=space-rock-0&bg_color=0A101F&color=A78BFA&line=10B981&point=E5E7EB&area=true&hide_border=true" alt="space-rock-0 contribution activity" />
+  <img src="https://ghchart.rshah.org/7C3AED/space-rock-0" alt="space-rock-0 contribution activity" />
 </p>
 
 <h2>🐍 Contribution Snake</h2>
